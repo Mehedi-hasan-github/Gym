@@ -128,3 +128,19 @@ banner{
     margin: 0px;
     font-size: 16px;
 }
+
+.categorie-part{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.main-ex-varient{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.ex-varient img{
+    border-radius: 100px;
+}
